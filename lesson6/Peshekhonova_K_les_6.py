@@ -35,7 +35,7 @@ file = open('text.txt', 'r')
 print(file.read())
 file.close()
 
-""" Task 3 """
+""" Task 3 aaa"""
 
 
 data = {
