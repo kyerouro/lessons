@@ -131,4 +131,6 @@ dmypy.json
 # created by virtualenv automatically
 
 .idea
-.DS_Store
+*.DS_Store
+bin
+pyvenv.cfg
